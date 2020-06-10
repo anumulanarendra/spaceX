@@ -1,10 +1,10 @@
 {
-  "name": "react-boilerplate",
-  "version": "4.0.0",
-  "description": "A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices",
+  "name": "spaceX",
+  "version": "1.0.0",
+  "description": "Catalog of SpaceX Launch Missions using React and Redu",
   "repository": {
     "type": "git",
-    "url": "git://github.com/react-boilerplate/react-boilerplate.git"
+    "url": "git://github.com/anumulanarendra/spaceX.git"
   },
   "engines": {
     "npm": ">=5",
@@ -77,8 +77,8 @@
     "intl": "1.2.5",
     "invariant": "2.2.4",
     "ip": "1.1.5",
-    "lodash": "4.17.11",
-    "minimist": "1.2.0",
+    "lodash": "4.17.12",
+    "minimist": "1.2.3",
     "prop-types": "15.7.2",
     "react": "16.8.6",
     "react-dom": "16.8.6",
